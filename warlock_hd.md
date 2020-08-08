@@ -150,7 +150,7 @@ Vous pouvez utiliser un focaliseur arcanique comme focaliseur d'incantation pour
 
 <!--ClassFeatureItem-->
 
-# <!--Name-->Invocations occultes<!--/Name-->
+# <!--Name-->Invocations occultes2<!--/Name-->
 
 <!--Description-->
 
