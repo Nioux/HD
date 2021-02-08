@@ -43,11 +43,11 @@ Les PVit mesurent les blessures plus importantes. Un personnage possède un nomb
 
 - Source: <!--Source-->(L5R p43)<!--/Source-->
 
-Quand un personnage reçoit des dommages, il perd tout d'abord « normalement » ses PC. Cependant, quand un personnage subit un coup critique (ou qu'il obtient un 1 naturel sur un jet de sauvegarde contre un sort), contrairement aux règles de base de Héros & Dragons, jetez deux fois les dégâts de votre arme. Appliquez-les une fois aux PC, puis la seconde fois aux PVit. En cas de dés additionnels tels que l'attaque sournoise, appliquez aux PVit les dégâts fixes tels que décrits plus loin (cf. Spécial : l'attaque sournoise). Si le personnage n'a plus de PC, doublez simplement les dégâts et appliquez-les aux PVit. Si une capacité vous offre un bonus aux dégâts spécifique en cas de critique (comme la capacité "critique brutal" du barbare), appliquez par défaut les dégâts issus de cette source sur les PC. Oui, les critiques sont mortels, surtout avec une attaque sournoise. S'il ne lui reste plus aucun PC, alors l'intégralité des dégâts est doublée.
+Quand un personnage reçoit des dommages, il perd tout d'abord « normalement » ses PC. Cependant, quand un personnage subit un coup critique (ou qu'il obtient un 1 naturel sur un jet de sauvegarde contre un sort), contrairement aux règles de base, jetez deux fois les dégâts de votre arme. Appliquez-les une fois aux PC, puis la seconde fois aux PVit. En cas de dés additionnels tels que l'attaque sournoise, appliquez aux PVit les dégâts fixes tels que décrits plus loin (cf. Spécial : l'attaque sournoise). Si le personnage n'a plus de PC, doublez simplement les dégâts et appliquez-les aux PVit. Si une capacité vous offre un bonus aux dégâts spécifique en cas de critique (comme la capacité "critique brutal" du barbare), appliquez par défaut les dégâts issus de cette source sur les PC. Oui, les critiques sont mortels, surtout avec une attaque sournoise. S'il ne lui reste plus aucun PC, alors l'intégralité des dégâts est doublée.
 
 Ce n'est que lorsqu'un personnage arrive à 0 PC (ou qu'il subit un coup critique) que les spécificités de ce système entrent en jeu. Elles sont détaillées dans les paragraphes qui suivent.
 
-Cette double jauge peut rendre les personnages de bas niveau plus résistants que leurs homologues de Héros & Dragons. Cependant, à partir du niveau 3, ils deviennent plus fragiles face à des créatures puissantes.
+Cette double jauge peut rendre les personnages de bas niveau plus résistants que leurs homologues standards. Cependant, à partir du niveau 3, ils deviennent plus fragiles face à des créatures puissantes.
 
 <!--/GenericItem-->
 
@@ -85,7 +85,7 @@ Quand des dégâts sont infligés aux PVit, aucune Résistance aux dégâts ne s
 
 L'attaque sournoise du roublard est un peu particulière. Elle offre une certaine puissance au Roublard, lui permettant de faire des dégâts massifs et rapidement. Lorsqu'un roublard effectue une attaque sournoise, plusieurs options s'offrent à lui.
 
-Il peut, s'il le désire, effectuer une attaque sournoise non-mortelle. Elle s'exécute alors comme dans les règles de base de Héros & Dragons, mais si l'attaque amène la créature visée à 0PC, les dégâts excédentaires ne s'appliquent pas aux PVit. Cependant, la difficulté du jet de sauvegarde afin d'éviter l'inconscience est augmentée du nombre de dé d'attaque sournoise jetés par le roublard. Ainsi, un roublard de niveau 3 jette 2d6 dégâts supplémentaires dus à son attaque sournoise. Le test se fera alors avec une difficulté de +2 (et +4 s'il a obtenu une réussite critique sur son attaque).
+Il peut, s'il le désire, effectuer une attaque sournoise non-mortelle. Elle s'exécute alors comme dans les règles de base, mais si l'attaque amène la créature visée à 0PC, les dégâts excédentaires ne s'appliquent pas aux PVit. Cependant, la difficulté du jet de sauvegarde afin d'éviter l'inconscience est augmentée du nombre de dé d'attaque sournoise jetés par le roublard. Ainsi, un roublard de niveau 3 jette 2d6 dégâts supplémentaires dus à son attaque sournoise. Le test se fera alors avec une difficulté de +2 (et +4 s'il a obtenu une réussite critique sur son attaque).
 
 Il peut aussi effectuer une attaque sournoise normale. Les dégâts sont appliqués normalement selon les règles présentes dans ce livre. Cependant, si l'adversaire tombe à 0PC, les dégâts reportés sur les PVit sont divisés par 2. S'il est déjà à 0PC, les dégâts sont appliqués normalement.
 
@@ -109,7 +109,7 @@ Un joueur dont le personnage subit des dégâts infligés à ses PVit peut déci
 
 - Source: <!--Source-->(L5R p44)<!--/Source-->
 
-Pour regagner des PC, la règle sur les points de vie de Héros & Dragons s'applique normalement. Les pouvoirs magiques de druide et les capacités de barde s'appliquent normalement aux PC, autant que la dépense de dés de vie et toute autre capacité de guérison.
+Pour regagner des PC, la règle sur les points de vie standard s'applique normalement. Les pouvoirs magiques de druide et les capacités de barde s'appliquent normalement aux PC, autant que la dépense de dés de vie et toute autre capacité de guérison.
 
 <!--/GenericItem-->
 

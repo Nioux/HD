@@ -15,7 +15,7 @@
 
 - Source: <!--Source-->(L5R p56)<!--/Source-->
 
-Les aptitudes liées au lancement de sorts ont disparu. Les aptitudes en gras dans le tableau page suivante sont nouvelles et détaillées par la suite. Les autres correspondent aux capacités du barde de Héros & Dragons.
+Les aptitudes liées au lancement de sorts ont disparu. Les aptitudes en gras dans le tableau page suivante sont nouvelles et détaillées par la suite. Les autres correspondent aux capacités du barde standard.
 
 <!--/GenericItem-->
 
@@ -141,7 +141,7 @@ Au niveau 18, vous devez désormais effectuer un simple repos court entre deux u
 
 - Source: <!--Source-->(L5R p58)<!--/Source-->
 
-Tous les collèges issus du livre de base de Héros & Dragons sont compatibles avec cette version du barde, mais certaines capacités demandent modification.
+Tous les collèges issus du livre de base sont compatibles avec cette version du barde, mais certaines capacités demandent modification.
 
 <!--/GenericItem-->
 

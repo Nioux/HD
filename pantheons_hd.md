@@ -187,7 +187,7 @@ Le panthéon nordique comprend deux grandes familles, les ases (les divinités d
 
 - Source: <!--Source-->(MDR p413)<!--/Source-->
 
-Invincible, la première campagne pour Héros & Dragons a pour cadre les terres d’Osgild et plus précisément un petit royaume excentré à l’extrême sud-est de la région, le royaume de Cobis. La région d’Osgild a longtemps été dominée par le grand empire qui lui donna son nom, aussi cette vaste zone géographique forme-t-elle une entité homogène en termes d’histoire et de religion.
+Invincible a pour cadre les terres d’Osgild et plus précisément un petit royaume excentré à l’extrême sud-est de la région, le royaume de Cobis. La région d’Osgild a longtemps été dominée par le grand empire qui lui donna son nom, aussi cette vaste zone géographique forme-t-elle une entité homogène en termes d’histoire et de religion.
 
 Au premier âge, avant l’arrivée des hommes, les peuples anciens (elfes, nains) pratiquaient une religion animiste et priaient les Puissances (les éléments, les saisons, les seigneurs des bêtes). Aujourd’hui, les humains appellent ces divinités les anciens dieux et leur culte est quasiment éteint. Seuls les druides leur rendent encore hommage.
 

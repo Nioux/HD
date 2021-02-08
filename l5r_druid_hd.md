@@ -15,7 +15,7 @@
 
 - Source: <!--Source-->(L5R p59)<!--/Source-->
 
-Les aptitudes liées au lancement de sorts ont disparu. Les aptitudes en gras dans le tableau page suivante sont nouvelles et détaillées par la suite. Les autres correspondent aux capacités du druide de Héros & Dragons.
+Les aptitudes liées au lancement de sorts ont disparu. Les aptitudes en gras dans le tableau page suivante sont nouvelles et détaillées par la suite. Les autres correspondent aux capacités du druide standard.
 
 <!--/GenericItem-->
 
@@ -256,7 +256,7 @@ Dans les cinq royaumes, l'aptitude [archidruide][archidruide Druide] est légèr
 
 - Source: <!--Source-->(L5R p64)<!--/Source-->
 
-Tous les cercles issus du livre de base de Héros & Dragons sont utilisables avec le druide des cinq royaumes, mais certaines capacités demandent à être expliquées ou légèrement modifiées. De plus, les listes de sorts bonus de chaque cercle ne s'appliquent pas au druide des cinq royaumes, ce dernier ne lançant pas de sorts de manière traditionnelle.
+Tous les cercles issus du livre de base sont utilisables avec le druide des cinq royaumes, mais certaines capacités demandent à être expliquées ou légèrement modifiées. De plus, les listes de sorts bonus de chaque cercle ne s'appliquent pas au druide des cinq royaumes, ce dernier ne lançant pas de sorts de manière traditionnelle.
 
 <!--/GenericItem-->
 

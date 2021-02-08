@@ -43,7 +43,7 @@ Avoir plus d'assistants que nécessaire ne change rien au rituel.
 
 - Source: <!--Source-->(L5R p68)<!--/Source-->
 
-Comme pour tout sort de Héros & Dragons, on peut parfois résister à un rituel. Certains impliquent que la cible (ou les cibles) effectue un jet de sauvegarde. Le DD de ce jet de sauvegarde dépend du rituel, comme indiqué à l'étape 4 de la section Créer son rituel.
+Comme pour tout sort, on peut parfois résister à un rituel. Certains impliquent que la cible (ou les cibles) effectue un jet de sauvegarde. Le DD de ce jet de sauvegarde dépend du rituel, comme indiqué à l'étape 4 de la section Créer son rituel.
 
 <!--/GenericItem-->
 
@@ -89,7 +89,7 @@ La magie corrompt l'âme autant que le corps. Trop y recourir affecte petit à p
 
 - Source: <!--Source-->(L5R p70)<!--/Source-->
 
-Afin de simplifier ce système de magie et sa formalisation, nous utilisons les écoles de magies de Héros & Dragons et les renommons « domaines ». Consultez le Manuel des règles de Héros & Dragons page 169 pour plus d'informations sur ce que recouvrent ces écoles.
+Afin de simplifier ce système de magie et sa formalisation, nous utilisons les écoles de magies standards et les renommons « domaines ».
 
 <!--/GenericItem-->
 
@@ -409,7 +409,7 @@ Des heures durant, l'invocateur récite d'anciennes litanies, entrant petit à p
 
 **Échec.** En cas d'échec, les morts se relèvent mais ils attaquent et traquent les participants au rituel.
 
-**Contrecoup.** 2 niveaux d'épuisement (cf. Manuel des règles de Héros & Dragons p.302) et 6d6 points de dégâts infligés aux points de combativité à chacun des participants.
+**Contrecoup.** 2 niveaux d'épuisement et 6d6 points de dégâts infligés aux points de combativité à chacun des participants.
 
 **Participants supplémentaires.** Le lanceur de sort peut mettre à contribution de 2 à 10 participants. Le degré de difficulté des tests est alors réduit de 2 par participants.
 

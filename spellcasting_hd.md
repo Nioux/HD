@@ -10,7 +10,7 @@
 - Alias: <!--AltName-->Spellcasting (SRD p100)<!--/AltName-->
 - Source: <!--Source-->(MDR p306)<!--/Source-->
 
-La magie imprègne les mondes de Héros & Dragons et se présente souvent sous forme de sorts.
+La magie imprègne les mondes du jeu et se présente souvent sous forme de sorts.
 
 Ce chapitre vous propose des règles pour lancer des sorts. Les personnages ont différentes manières de préparer et de lancer leurs sorts, en fonction de leur classe. Quant aux monstres, ils les utilisent à leur propre manière. Mais quoi qu'il en soit, un sort répond toujours aux règles suivantes.
 
