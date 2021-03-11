@@ -1475,7 +1475,7 @@ _Touché :_ 1 dégât perforant.
 
 (Pieuvre géante)
 
-Utilisez le profl de la [pieuvre](monsters_hd.md#pieuvre) (H&D, p. 317 pour le kraken nouveau-né).
+Utilisez le profl de la [pieuvre](monsters_hd.md#pieuvre) (MDR, p. 317 pour le kraken nouveau-né).
 
 Voir [Kraken](monsters_hd.md#kraken)
 
@@ -2743,7 +2743,7 @@ _Touché :_ 13 (3d4+6) dégâts contondants. Si la cible est une créature, elle
 
 _Touché :_ 3 (1d4+1) dégâts perforants.
 
-_Le troglodyte de ce bestiaire ne correspond en rien au troglodyte habituel de COF ou de H&D : il s'agit simplement d'un animal coloré proche d'une grenouille ou d'une salamandre géante._
+_Le troglodyte de ce bestiaire ne correspond en rien au troglodyte habituel de COF : il s'agit simplement d'un animal coloré proche d'une grenouille ou d'une salamandre géante._
 
 
 <!--/MonsterItem-->
